@@ -1,7 +1,16 @@
 [package]
 name = "catr"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+authors = ["TristanAppDev"]
+description = "cat but written in Rust."
+homepage = "https://github.com/TristanAppDev/catr"
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE"
+keywords = ["cat", "catr", "terminal", "cli"]
+categories = ["command-line-utilities"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
